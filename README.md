@@ -13,3 +13,5 @@ fugahoge
 ororororo
 
 mugamuga
+
+share
